@@ -1,6 +1,8 @@
 # zigbee-html-tabelle--iobroker
 
 
+bedienung der tabelle: siehe: https://github.com/liv-in-sky/sonoff-iobroker-script
 
 
-![Image 1](https://user-images.githubusercontent.com/18462890/148646266-4cc4cc44-c0ec-48a6-8696-d7b34d2f7152.png)
+
+![AApossis (169)](https://user-images.githubusercontent.com/18462890/148679722-89f55951-1a11-4375-af0d-4cc0af1d50fc.gif)
